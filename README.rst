@@ -1,0 +1,1 @@
+Cada pasta representa um problema retirado de: http://br.spoj.pl/,sendo que o nome da pasta é o ID do problema.
